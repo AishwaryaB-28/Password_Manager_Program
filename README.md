@@ -8,7 +8,7 @@ What will this project do?
 2. View password
 3. Generate password
 4. Store password
-5. Exit
+
 
 Concepts used:
 
